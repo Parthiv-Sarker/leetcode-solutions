@@ -17,13 +17,13 @@
 
 ## LeetCode
 
-- **Submission ID:** 2125759858
-- **Runtime:** 47 ms
-- **Runtime Percentile:** 14.77%
-- **Memory:** 48.2 MB
-- **Memory Percentile:** 15.56%
+- **Submission ID:** 2125760357
+- **Runtime:** 4 ms
+- **Runtime Percentile:** 97.16%
+- **Memory:** 47.7 MB
+- **Memory Percentile:** 80.18%
 
-[View Submission](https://leetcode.com/problems/find-k-closest-elements/submissions/2125759858/)
+[View Submission](https://leetcode.com/problems/find-k-closest-elements/submissions/2125760357/)
 
 ## Solution
 
