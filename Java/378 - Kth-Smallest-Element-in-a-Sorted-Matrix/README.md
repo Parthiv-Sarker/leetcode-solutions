@@ -16,13 +16,13 @@
 
 ## LeetCode
 
-- **Submission ID:** 2126883529
-- **Runtime:** 29 ms
-- **Runtime Percentile:** 8.46%
-- **Memory:** 50.4 MB
-- **Memory Percentile:** 94.60%
+- **Submission ID:** 2126885918
+- **Runtime:** 1 ms
+- **Runtime Percentile:** 68.14%
+- **Memory:** 51.9 MB
+- **Memory Percentile:** 28.85%
 
-[View Submission](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/submissions/2126883529/)
+[View Submission](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/submissions/2126885918/)
 
 ## Solution
 
