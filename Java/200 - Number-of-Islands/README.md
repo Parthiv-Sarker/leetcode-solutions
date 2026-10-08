@@ -16,13 +16,13 @@
 
 ## LeetCode
 
-- **Submission ID:** 2162834327
+- **Submission ID:** 2166377304
 - **Runtime:** 4 ms
-- **Runtime Percentile:** 46.72%
-- **Memory:** 52.4 MB
-- **Memory Percentile:** 32.54%
+- **Runtime Percentile:** 46.55%
+- **Memory:** 52.3 MB
+- **Memory Percentile:** 45.01%
 
-[View Submission](https://leetcode.com/problems/number-of-islands/submissions/2162834327/)
+[View Submission](https://leetcode.com/problems/number-of-islands/submissions/2166377304/)
 
 ## Solution
 
